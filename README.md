@@ -1,1 +1,1 @@
-Stress Detection using EEG signals
+Stress Detection using EEG signals# StressDetection
